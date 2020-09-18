@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yahtzee</string>
+    <string name="rollDice">ROLL DICE</string>
+</resources>
